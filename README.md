@@ -50,7 +50,10 @@ Voyager Agents takes a natural-language travel request (e.g. *"Plan a complete 7
 ## Screenshots
 
 ![Homepage](assets/screenshots/homepage.png)
-![Result view](assets/screenshots/result-view.png)
+![Result view](assets/screenshots/result_1.png)
+![Result view](assets/screenshots/result_2.png)
+![Result view](assets/screenshots/result_3.png)
+
 
 
 ## Architecture
