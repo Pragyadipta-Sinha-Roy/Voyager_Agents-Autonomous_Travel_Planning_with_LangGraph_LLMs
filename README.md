@@ -49,7 +49,7 @@ Voyager Agents takes a natural-language travel request (e.g. *"Plan a complete 7
 
 ## Screenshots
 
-
+'assets/screenshots/Screenshot 2026-07-06 133005.png'
 | `assets/screenshots/mobile-view.png` | The responsive layout on a phone-sized viewport |
 | `assets/screenshots/render-dashboard.png` | Your Render dashboard showing the deployed web service + PostgreSQL instance (nice proof-of-deployment shot for a portfolio) |
 
