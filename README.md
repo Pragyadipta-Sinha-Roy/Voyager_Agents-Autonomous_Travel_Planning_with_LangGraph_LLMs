@@ -49,22 +49,14 @@ Voyager Agents takes a natural-language travel request (e.g. *"Plan a complete 7
 
 ## Screenshots
 
-> Add screenshots to `assets/screenshots/` and they'll render below. Suggested shots:
 
-| Suggested file | What to capture |
-|---|---|
-| `assets/screenshots/homepage.png` | The landing page hero + input card in its idle state |
-| `assets/screenshots/quick-prompts.png` | The quick-prompt buttons (Japan / Dubai / Thailand / Global Flights) |
-| `assets/screenshots/loading-state.png` | The "Generate Plan" button mid-request, showing the loading spinner |
-| `assets/screenshots/result-view.png` | A full rendered itinerary with the Copy / Download PDF actions visible |
-| `assets/screenshots/pdf-export.png` | The exported PDF opened in a viewer |
 | `assets/screenshots/mobile-view.png` | The responsive layout on a phone-sized viewport |
 | `assets/screenshots/render-dashboard.png` | Your Render dashboard showing the deployed web service + PostgreSQL instance (nice proof-of-deployment shot for a portfolio) |
 
 Example embed once added:
 
 ```markdown
-![Homepage](assets/screenshots/homepage.png)
+![Homepage](assets/screenshots/Screenshot 2026-07-06 133005.png)
 ![Result view](assets/screenshots/result-view.png)
 ```
 
